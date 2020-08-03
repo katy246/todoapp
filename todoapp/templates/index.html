@@ -1,0 +1,16 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+  <h2>Welcome to TodoApp</h2>
+
+ <h3> <p>The Backlog is as following:</p><h3>
+  <ul>
+    <li><strong>Tasks Overall:</strong> {{ num_tasks }}</li>
+    <li><strong>Tasks Due Today:</strong> {{ num_due_today }}</li>
+    <li><strong>Tasks Overdue:</strong> {{ num_overdue }}</li>
+    <li><strong>High Priority Tasks:</strong> {{ num_high_priority }}</li>
+  </ul>
+
+
+  
+{% endblock %}
