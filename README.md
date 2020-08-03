@@ -1,4 +1,4 @@
-This is a simple **To-do app** written in Django which currently supports the following 
+This is a simple **To-do app** written in Python using the Django Web framework which currently supports the following 
 
 Single user only -  no authentication or authorization currently supported 
 
