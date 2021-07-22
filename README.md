@@ -1,4 +1,6 @@
-This is a simple **To-do app** written in Python using the Django Web framework which currently supports the following 
+This is a simple **To-do app** written in Python using the Django Web framework which currently supports the following
+
+The app was created as POC for self-study and was coded during a very limited timeframe.
 
 Single user only -  no authentication or authorization currently supported 
 
